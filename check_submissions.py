@@ -8,7 +8,7 @@ import requests
 
 home = os.path.abspath(Path(__file__).parent)
 
-submission_architecture = {"Week1": 1}
+submission_architecture = {"Week1": 10}
 
 class Student:
     def __init__(self, name, githubID):
