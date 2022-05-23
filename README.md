@@ -22,4 +22,4 @@ Minimum problems to complete | **Week1**: `10` |
 
 |Rank|Profile|Name|Solved|
 | :---: | :---: | :---: | :---: |
-|1|![AyushDubey](https://avatars.githubusercontent.com/u/33064931?v=4&s=100)|[AyushDubey](https://github.com/devAyushDubey)|16|
+|1|![AyushDubey](https://avatars.githubusercontent.com/u/33064931?v=4&s=100)|[AyushDubey](https://github.com/devAyushDubey)|23|
